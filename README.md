@@ -2,3 +2,5 @@
 Repositorio inicial para concoer GitHub
 
 Archivo de texto con la informacion general del repositorio.
+
+caracteristica 2
